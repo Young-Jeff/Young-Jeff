@@ -26,7 +26,7 @@
   
   
 - ⚙️ rest:
-  [Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)
+  ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)
   [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)](https://blog.i-xiao.space/)
   [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)](https://blog.i-xiao.space/)
   [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://blog.i-xiao.space/)
