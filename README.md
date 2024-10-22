@@ -6,7 +6,7 @@
 <br/>
 🐛 Currently focusing on TypeScript full-stack development and blockchain-related technologies.=
 
-[![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](f18739498260@gmail.com)
+[![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:f18739498260@gmail.com)
 
 - 🚀 frontend:
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
