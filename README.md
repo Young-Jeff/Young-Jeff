@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Jeff
 
-👨‍💻 A front-end developer born in the mid-90s, passionate about learning new technologies and constantly experimenting.
+👨‍💻 A TypeScript developer born in the mid-90s, passionate about learning new technologies and constantly experimenting.
 <br/>
 🐛 Currently focusing on TypeScript full-stack development and blockchain-related technologies.
 
